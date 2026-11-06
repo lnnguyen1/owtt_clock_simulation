@@ -1,0 +1,13 @@
+scenario,source,rms_mm_1h,rms_mm_6h,rms_mm_12h,rms_mm_24h
+Synced to deck clock,Sync offset,0.0856,0.0856,0.0856,0.0856
+Synced to deck clock,Frequency offset,0.1570,0.9423,1.8846,3.7691
+Synced to deck clock,Aging,0.0020,0.0708,0.2833,1.1333
+Synced to deck clock,Random noise (q1, q2),0.0423,0.4942,1.3267,3.6564
+Synced to deck clock,Deck clock (GPS noise),0.0079,0.0078,0.0075,0.0075
+Synced to deck clock,Total,0.1894,1.0745,2.3852,5.6180
+Disciplined to deck clock,Sync offset,0.0043,0.0043,0.0043,0.0043
+Disciplined to deck clock,Frequency offset,0.0032,0.0192,0.0385,0.0769
+Disciplined to deck clock,Aging,0.0019,0.0688,0.2752,1.1010
+Disciplined to deck clock,Random noise (q1, q2),0.0398,0.4629,1.2939,3.7146
+Disciplined to deck clock,Deck clock (GPS noise),0.0071,0.0078,0.0078,0.0080
+Disciplined to deck clock,Total,0.0435,0.4895,1.4119,4.1449
